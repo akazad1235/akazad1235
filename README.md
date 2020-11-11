@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Azad fro Bangladesh, and Idon content on Web Desing And Development. I really enjoy learning languages, framworks & library like Laravel & React js as well as working Node js.You can check my portfolio and project.
+I'm Azad from Bangladesh, and I do content on Web Desing And Development. I really enjoy learning languages, framworks & library like Laravel & React js as well as working Node js.You can check my portfolio and project.
 
 
 - 🔭 I’m currently working on ... Web Development
@@ -12,3 +12,5 @@ I'm Azad fro Bangladesh, and Idon content on Web Desing And Development. I reall
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akazad1235)](https://github.com/anuraghazra/github-readme-stats)
