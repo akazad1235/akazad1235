@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**akazad1235/akazad1235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Azad fro Bangladesh, and Idon content on Web Desing And Development. I really enjoy learning languages, framworks & library like Laravel & React js as well as working Node js.You can check my portfolio and project.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Web Development
 - 🌱 I’m currently learning ... Fullstack Web Development
