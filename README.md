@@ -1,12 +1,21 @@
 ### Hi there 👋, My Name is Md. Azad Hosen
-#### Web Design & Development
-![Web Design & Development](https://azadhosen.com/static/media/me.57ddc8ff.jpg)
 
 I'm Azad from Bangladesh, and I do content on Web Desing And Development. I really enjoy learning languages, framworks & libraries like Laravel & React js as well as working Node js. You can check my portfolio and project.
 
-Skills: Laravel/React js/Javascript/Mysql/MongoDB/Redux/Git/Jquey/Ajax/Bootstrap/HTML5/CSS3 
+## Skills & Experience
+* Laravel
+* ReactJs
+* Javascript
+* Mysql
+* MongoDB
+* Redux
+* Git
+* Jquery
+* Ajax
+* Boostrap
+* HTML5 
+* CSS3
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web Development 
 
 
@@ -17,4 +26,4 @@ Skills: Laravel/React js/Javascript/Mysql/MongoDB/Redux/Git/Jquey/Ajax/Bootstrap
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akazad1535&theme=vue-dark&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akazad1235&theme=vue-dark&show_icons=true)
