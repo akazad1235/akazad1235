@@ -1,18 +1,18 @@
 ### Hi there 👋, My Name is Md. Azad Hosen
 
-I'm Azad from Bangladesh, and I do content on Web Desing And Development. I really enjoy learning languages, framworks & libraries like Laravel & React js as well as working Node js. You can check my portfolio and project.
+I'm Azad from Bangladesh, and I do content on Web design and Development. I really enjoy learning languages, frameworks & libraries like Laravel & React js as well as working with Data  Structures. You can check my portfolio and project.
 
 ## Skills & Experience
 * Laravel
 * ReactJs
 * Javascript
 * Mysql
-* MongoDB
-* Redux
+* Java
+* Data Structures & Algorithm
 * Git
 * Jquery
 * Ajax
-* Boostrap
+* Bootstrap
 * HTML5 
 * CSS3
 
